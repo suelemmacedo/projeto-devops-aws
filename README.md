@@ -7,11 +7,19 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido como parte dos meus estudos práticos em **Cloud Computing, DevOps e Infrastructure as Code (IaC)**.
+Este projeto foi desenvolvido como parte dos meus estudos práticos em Cloud Computing, DevOps e Infrastructure as Code (IaC), com o objetivo de aprofundar meus conhecimentos em provisionamento e gerenciamento de infraestrutura na AWS utilizando Terraform.
 
-O objetivo é praticar o provisionamento e gerenciamento de recursos na Amazon Web Services (AWS) utilizando Terraform, automatizando a criação de infraestrutura por meio de código.
+O laboratório foi realizado com base nas aulas da Maria Lazara, que compartilha conhecimentos e experiências práticas sobre Cloud e DevOps.
 
-O laboratório também permite aplicar conhecimentos de Linux, Git, redes e segurança em nuvem.
+A partir das aulas, pude acompanhar a construção da infraestrutura, executar os comandos, explorar os recursos da AWS e compreender melhor como o Terraform permite automatizar o provisionamento de ambientes em nuvem.
+
+Referência do projeto:
+
+Instrutora: Maria Lazara
+
+Material de estudo: Aula prática de Terraform e AWS no YouTube
+
+Agradeço à Maria Lazara por compartilhar seu conhecimento e contribuir com o aprendizado de quem está construindo sua trajetória na área de tecnologia.
 
 ## 🎯 Objetivos
 
