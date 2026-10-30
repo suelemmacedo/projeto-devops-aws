@@ -1,4 +1,4 @@
-# 🚀 Primeiro Projeto DevOps | Docker + AWS EC2 + Amazon ECR
+# Primeiro Projeto DevOps | Docker + AWS EC2 + Amazon ECR
 
 Este repositório documenta meu primeiro laboratório prático de **DevOps**, desenvolvido para aplicar conceitos de containerização, computação em nuvem, redes e implantação de aplicações.
 
