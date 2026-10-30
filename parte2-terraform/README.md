@@ -1,4 +1,4 @@
-# 🚀 Infraestrutura AWS com Terraform
+# Infraestrutura AWS com Terraform
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonwebservices&logoColor=white)
